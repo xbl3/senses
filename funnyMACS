@@ -1,0 +1,355 @@
+# source with pretty much every OUI
+# https://www.macvendorlookup.com/vendormacs-xml-download
+
+
+
+  <VendorMapping mac_prefix="00:03:B0" vendor_name="Xsense"/>
+
+  <VendorMapping mac_prefix="00:40:FB" vendor_name="Cascade Communications"/>
+
+  <VendorMapping mac_prefix="00:60:D0" vendor_name="Snmp Research Orporated"/>
+  <VendorMapping mac_prefix="00:60:D1" vendor_name="Cascade Communications"/>
+
+  <VendorMapping mac_prefix="D8:2D:E1" vendor_name="Tricascade"/>
+
+  <VendorMapping mac_prefix="D8:4A:87" vendor_name="Oi Electric Co"/>
+  <VendorMapping mac_prefix="D8:29:86" vendor_name="Best Wish"/>
+  <VendorMapping mac_prefix="D8:1C:14" vendor_name="Compacta International"/>
+
+  <VendorMapping mac_prefix="00:08:B6" vendor_name="Routefree"/>
+
+  <VendorMapping mac_prefix="00:0B:DF" vendor_name="Shenzhen Routerd Networks"/>
+
+  <VendorMapping mac_prefix="00:1D:84" vendor_name="Gateway"/>
+  <VendorMapping mac_prefix="00:1D:88" vendor_name="Clearwire"/>
+
+  <VendorMapping mac_prefix="00:20:B0" vendor_name="Gateway Devices"/>
+  <VendorMapping mac_prefix="90:F2:78" vendor_name="Radius Gateway"/>
+  <VendorMapping mac_prefix="00:00:61" vendor_name="Gateway Communications"/>
+  <VendorMapping mac_prefix="00:09:19" vendor_name="Mds Gateways"/>
+  <VendorMapping mac_prefix="00:09:13" vendor_name="Systemk"/>
+  <VendorMapping mac_prefix="00:09:14" vendor_name="Computrols"/>
+  <VendorMapping mac_prefix="00:09:15" vendor_name="Cas"/>
+  <VendorMapping mac_prefix="00:09:16" vendor_name="Listman Home"/>
+  <VendorMapping mac_prefix="00:09:28" vendor_name="Telecore"/>
+  
+  <VendorMapping mac_prefix="A0:9A:5A" vendor_name="Time Domain"/>
+  <VendorMapping mac_prefix="00:09:4A" vendor_name="Homenet Communications"/>
+  <VendorMapping mac_prefix="00:09:46" vendor_name="Cluster Labs"/>
+
+
+  <VendorMapping mac_prefix="00:09:42" vendor_name="Wireless"/>
+  <VendorMapping mac_prefix="00:09:3D" vendor_name="Newisys"/>
+  <VendorMapping mac_prefix="00:09:3E" vendor_name="Ci"/>
+  <VendorMapping mac_prefix="00:09:3F" vendor_name="Double-win Enterpirse Co"/>
+
+  <VendorMapping mac_prefix="38:F5:97" vendor_name="Home2net"/>
+  <VendorMapping mac_prefix="40:56:0C" vendor_name="In Home Displays"/>
+
+  <VendorMapping mac_prefix="40:52:0D" vendor_name="Pico"/>
+  <VendorMapping mac_prefix="40:37:AD" vendor_name="Macro Image"/>
+  <VendorMapping mac_prefix="48:B8:DE" vendor_name="Homewins  Co"/>
+  <VendorMapping mac_prefix="E8:DA:AA" vendor_name="Videohome"/>
+  <VendorMapping mac_prefix="00:07:A6" vendor_name="Home Automation"/>
+  <VendorMapping mac_prefix="00:09:16" vendor_name="Listman Home"/>
+  <VendorMapping mac_prefix="00:09:1B" vendor_name="Digital Generation"/>
+  
+  <VendorMapping mac_prefix="00:0A:1B" vendor_name="Stream Labs"/>
+
+
+
+  <VendorMapping mac_prefix="00:17:51" vendor_name="Online"/>
+  <VendorMapping mac_prefix="00:17:4D" vendor_name="Dynamic Network Factory"/>
+  <VendorMapping mac_prefix="00:17:46" vendor_name="Freedom9"/>
+  <VendorMapping mac_prefix="00:17:61" vendor_name="Private"/>
+  <VendorMapping mac_prefix="00:17:62" vendor_name="Solar"/>
+  <VendorMapping mac_prefix="00:60:7D" vendor_name="Sentient Networks"/>
+  <VendorMapping mac_prefix="00:60:7E" vendor_name="Gigalabs"/>
+  <VendorMapping mac_prefix="00:60:77" vendor_name="Prisa Networks"/>
+  <VendorMapping mac_prefix="00:60:78" vendor_name="Power Measurement"/>
+  <VendorMapping mac_prefix="00:60:79" vendor_name="Mainstream Data"/>
+  <VendorMapping mac_prefix="00:60:7A" vendor_name="Dvs"/>
+
+
+
+  <VendorMapping mac_prefix="00:60:8A" vendor_name="Citadel Computer"/>
+  <VendorMapping mac_prefix="00:60:84" vendor_name="Digital Video"/>
+  <VendorMapping mac_prefix="00:60:85" vendor_name="Storage Concepts"/>
+  <VendorMapping mac_prefix="C8:20:8E" vendor_name="Storagedata"/>
+  <VendorMapping mac_prefix="88:8B:5D" vendor_name="Storage Appliance"/>
+  <VendorMapping mac_prefix="F4:94:61" vendor_name="Nexgen Storage"/>
+  <VendorMapping mac_prefix="00:02:9A" vendor_name="Storage Apps"/>
+  <VendorMapping mac_prefix="00:09:50" vendor_name="Independent Storage"/>
+  <VendorMapping mac_prefix="00:09:56" vendor_name="Network  Group  Nsg"/>
+  <VendorMapping mac_prefix="00:09:57" vendor_name="Supercaller"/>
+
+  <VendorMapping mac_prefix="00:09:5D" vendor_name="Dialogue"/>
+  
+  <VendorMapping mac_prefix="00:10:D4" vendor_name="Storage Computer"/>
+  <VendorMapping mac_prefix="00:10:DF" vendor_name="Rise Computer"/>
+  <VendorMapping mac_prefix="00:10:E2" vendor_name="Arraycomm"/>
+
+  <VendorMapping mac_prefix="00:11:73" vendor_name="Smart Storage"/>
+  <VendorMapping mac_prefix="00:11:6E" vendor_name="Peplink"/>
+  
+  
+  <VendorMapping mac_prefix="00:40:5B" vendor_name="Funasset"/>
+  <VendorMapping mac_prefix="00:40:5C" vendor_name="Future"/>
+
+
+  <VendorMapping mac_prefix="00:18:C7" vendor_name="Real Time Automation"/>
+  <VendorMapping mac_prefix="00:18:C8" vendor_name="Isonas"/>
+  <VendorMapping mac_prefix="00:18:C9" vendor_name="Eops"/>
+  <VendorMapping mac_prefix="00:18:CA" vendor_name="Viprinet"/>
+  <VendorMapping mac_prefix="00:18:CB" vendor_name="Tecobest"/>
+  <VendorMapping mac_prefix="00:09:5F" vendor_name="Telebyte"/>
+  <VendorMapping mac_prefix="00:17:56" vendor_name="Vi Labs Oy"/>
+  <VendorMapping mac_prefix="00:0A:C1" vendor_name="Futuretel"/>
+  <VendorMapping mac_prefix="00:0A:C2" vendor_name="Fiberhome Telecommunication  Co"/>
+  <VendorMapping mac_prefix="00:0A:BC" vendor_name="Seabridge"/>
+  <VendorMapping mac_prefix="00:0E:F3" vendor_name="Smarthome"/>
+  <VendorMapping mac_prefix="00:11:68" vendor_name="Homelogic"/>
+  <VendorMapping mac_prefix="00:13:37" vendor_name="Orient Power Home Network"/>
+  <VendorMapping mac_prefix="00:18:B3" vendor_name="Tec Wizhome Co"/>
+  <VendorMapping mac_prefix="00:1A:1D" vendor_name="Pchome Online"/>
+
+
+  <VendorMapping mac_prefix="00:1A:18" vendor_name="Advanced Simulation"/>
+  <VendorMapping mac_prefix="00:1A:19" vendor_name="Computer Engineering"/>
+  <VendorMapping mac_prefix="00:1A:11" vendor_name="Google"/>
+  <VendorMapping mac_prefix="00:1A:B5" vendor_name="Home Network System"/>
+
+  <VendorMapping mac_prefix="00:26:EC" vendor_name="Legrand Home"/>
+  <VendorMapping mac_prefix="04:C1:B9" vendor_name="Fiberhome Telecommunication Techco"/>
+  <VendorMapping mac_prefix="00:0C:42" vendor_name="Routerboardcom"/>
+
+  <VendorMapping mac_prefix="D4:CA:6D" vendor_name="Routerboardcom"/>
+  <VendorMapping mac_prefix="4C:5E:0C" vendor_name="Routerboardcom"/>
+
+
+  <VendorMapping mac_prefix="00:20:0E" vendor_name="Satellite  Mgmt"/>
+  <VendorMapping mac_prefix="00:50:89" vendor_name="Safety Management"/>
+  <VendorMapping mac_prefix="38:F7:08" vendor_name="National Resource Management"/>
+  <VendorMapping mac_prefix="40:AC:8D" vendor_name="Data Management"/>
+  <VendorMapping mac_prefix="64:E8:E6" vendor_name="Global Moisture Management System"/>
+  <VendorMapping mac_prefix="90:20:83" vendor_name="General Engine Management"/>
+  <VendorMapping mac_prefix="D0:73:D5" vendor_name="Lifi Labs Management"/>
+  <VendorMapping mac_prefix="00:03:2E" vendor_name="Scope Information Management"/>
+
+
+
+  <VendorMapping mac_prefix="00:05:B9" vendor_name="Airvana"/>
+  <VendorMapping mac_prefix="00:05:BA" vendor_name="Area Netwoeks"/>
+  <VendorMapping mac_prefix="00:05:BB" vendor_name="Myspace Ab"/>
+  <VendorMapping mac_prefix="00:05:BC" vendor_name="Resource Data Management"/>
+  <VendorMapping mac_prefix="00:05:BD" vendor_name="Roax Bv"/>
+
+  <VendorMapping mac_prefix="00:09:70" vendor_name="Vibration Research"/>
+  <VendorMapping mac_prefix="00:09:71" vendor_name="Time Management"/>
+  <VendorMapping mac_prefix="00:09:6D" vendor_name="Powernet"/>
+
+  <VendorMapping mac_prefix="00:09:67" vendor_name="Tachyon"/>
+
+  <VendorMapping mac_prefix="00:00:D3" vendor_name="Wang Laboratories"/>
+  <VendorMapping mac_prefix="00:06:06" vendor_name="Rapidwan"/>
+  <VendorMapping mac_prefix="00:06:07" vendor_name="Omni Directional Control"/>
+  <VendorMapping mac_prefix="00:06:08" vendor_name="At-sky Sas"/>
+  <VendorMapping mac_prefix="00:06:09" vendor_name="Crossport"/>
+  <VendorMapping mac_prefix="00:06:0A" vendor_name="Blue2space"/>
+  <VendorMapping mac_prefix="00:08:F0" vendor_name="Next Generation"/>
+  <VendorMapping mac_prefix="00:08:F1" vendor_name="Voltaire"/>
+  <VendorMapping mac_prefix="00:08:F2" vendor_name="Cs"/>
+  <VendorMapping mac_prefix="00:08:F3" vendor_name="Wany"/>
+  <VendorMapping mac_prefix="00:0C:B9" vendor_name="Lea"/>
+  <VendorMapping mac_prefix="00:0C:BA" vendor_name="Jamex"/>
+  <VendorMapping mac_prefix="00:0C:BD" vendor_name="Interface Masters"/>
+  <VendorMapping mac_prefix="00:0C:BE" vendor_name="Innominate Security  Ag"/>
+  <VendorMapping mac_prefix="00:0C:BF" vendor_name="Holy Stone Ent Co"/>
+  <VendorMapping mac_prefix="00:0C:C1" vendor_name="Cooper Industries"/>
+  <VendorMapping mac_prefix="00:0C:C2" vendor_name="Controlnet India Private"/>
+  <VendorMapping mac_prefix="00:0C:C3" vendor_name="Bewan"/>
+  <VendorMapping mac_prefix="00:0C:C5" vendor_name="Nextlink Co"/>
+  <VendorMapping mac_prefix="00:0C:C7" vendor_name="Intelligent Computer Solutions"/>
+  <VendorMapping mac_prefix="00:0C:C9" vendor_name="Ilwoo Data   Co"/>
+  <VendorMapping mac_prefix="00:0C:CA" vendor_name="Hgst A Western Digital"/>
+  <VendorMapping mac_prefix="00:0C:CB" vendor_name="Design Combus"/>
+  <VendorMapping mac_prefix="00:0C:CC" vendor_name="Aeroscout"/>
+  <VendorMapping mac_prefix="00:0C:CD" vendor_name="Iec - Tc57"/>
+  <VendorMapping mac_prefix="00:0C:CE" vendor_name="Cisco"/>
+  <VendorMapping mac_prefix="00:0C:CF" vendor_name="Cisco"/>
+  <VendorMapping mac_prefix="00:0C:D0" vendor_name="Symetrix"/>
+  <VendorMapping mac_prefix="00:13:07" vendor_name="Paravirtual"/>
+  <VendorMapping mac_prefix="00:13:10" vendor_name="Cisco-linksys"/>
+  <VendorMapping mac_prefix="00:03:FF" vendor_name="Microsoft"/>
+  <VendorMapping mac_prefix="00:15:5D" vendor_name="Microsoft"/>
+  <VendorMapping mac_prefix="00:13:BE" vendor_name="Virtual Conexions"/>
+  <VendorMapping mac_prefix="00:1C:14" vendor_name="Vmware"/>
+  <VendorMapping mac_prefix="00:1C:0E" vendor_name="Cisco"/>
+  <VendorMapping mac_prefix="00:1C:0F" vendor_name="Cisco"/>
+  <VendorMapping mac_prefix="00:1C:10" vendor_name="Cisco-linksys"/>
+  <VendorMapping mac_prefix="00:1C:11" vendor_name="Arris Group"/>
+  <VendorMapping mac_prefix="00:1C:12" vendor_name="Arris Group"/>
+  <VendorMapping mac_prefix="00:1C:2F" vendor_name="Pfister"/>
+  <VendorMapping mac_prefix="00:1C:5B" vendor_name="Chubb Electronic Security"/>
+  <VendorMapping mac_prefix="00:1C:42" vendor_name="Parallels"/>
+  <VendorMapping mac_prefix="00:1C:67" vendor_name="Pumpkin Networks"/>
+  <VendorMapping mac_prefix="00:1C:69" vendor_name="Packet Vision"/>
+  <VendorMapping mac_prefix="00:1C:74" vendor_name="Syswan"/>
+  <VendorMapping mac_prefix="00:1C:75" vendor_name="Segnet"/>
+  <VendorMapping mac_prefix="00:1C:A6" vendor_name="Win4net"/>
+  <VendorMapping mac_prefix="00:1C:BE" vendor_name="Nintendo Co"/>
+  <VendorMapping mac_prefix="00:1C:DD" vendor_name="Cowbell Engineering Co"/>
+  <VendorMapping mac_prefix="00:1D:02" vendor_name="Cybertech Telecom Development"/>
+  <VendorMapping mac_prefix="00:1D:03" vendor_name="Design Solutions"/>
+  <VendorMapping mac_prefix="00:1D:04" vendor_name="Zipit Wireless"/>
+  <VendorMapping mac_prefix="00:1D:0C" vendor_name="Mobilecompia"/>
+  <VendorMapping mac_prefix="00:1D:17" vendor_name="Digital Sky"/>
+  <VendorMapping mac_prefix="00:1D:22" vendor_name="Foss Analytical As"/>
+  <VendorMapping mac_prefix="00:1D:3C" vendor_name="Muscle"/>
+  <VendorMapping mac_prefix="00:1D:2F" vendor_name="Quantumvision"/>  
+  <VendorMapping mac_prefix="00:1D:33" vendor_name="Maverick"/>
+  <VendorMapping mac_prefix="00:1D:34" vendor_name="Syris"/>
+  <VendorMapping mac_prefix="00:1D:4B" vendor_name="Grid ConNECt"/>
+  <VendorMapping mac_prefix="00:1D:58" vendor_name="Cq"/>
+  <VendorMapping mac_prefix="00:1D:59" vendor_name="Mitra Energy  Infrastructure"/>
+  <VendorMapping mac_prefix="00:1D:5A" vendor_name="2wire"/>
+  <VendorMapping mac_prefix="00:1D:5D" vendor_name="Control Dynamics"/>
+  <VendorMapping mac_prefix="00:1D:5E" vendor_name="Coming Media"/>
+  <VendorMapping mac_prefix="00:1D:5F" vendor_name="Overspeed Sarl"/>
+  <VendorMapping mac_prefix="00:1D:60" vendor_name="Asustek Computer"/>
+  <VendorMapping mac_prefix="00:1D:76" vendor_name="Eyeheight"/>
+  <VendorMapping mac_prefix="00:1D:77" vendor_name="Nsgate"/>
+  <VendorMapping mac_prefix="00:1D:7A" vendor_name="Wideband Semiconductor"/>
+  <VendorMapping mac_prefix="00:1D:7B" vendor_name="Ice Energy"/>
+  <VendorMapping mac_prefix="00:1D:7C" vendor_name="Abe Elettronica Spa"/>
+  <VendorMapping mac_prefix="00:1D:7D" vendor_name="Giga-byte  Co"/>
+  <VendorMapping mac_prefix="00:1D:F2" vendor_name="Netflix"/>
+  <VendorMapping mac_prefix="00:1D:F4" vendor_name="Magellan"/>
+  <VendorMapping mac_prefix="00:1D:F5" vendor_name="Sunshine Co"/>
+  <VendorMapping mac_prefix="00:1D:EA" vendor_name="Commtest Instruments"/>
+  <VendorMapping mac_prefix="00:1D:ED" vendor_name="Grid Net"/>
+  <VendorMapping mac_prefix="00:1D:EF" vendor_name="Trimm"/>
+  <VendorMapping mac_prefix="00:1D:F8" vendor_name="Webpro Vision"/>
+  <VendorMapping mac_prefix="00:1D:F9" vendor_name="Cybiotronics Far East"/>
+  <VendorMapping mac_prefix="00:1D:FF" vendor_name="Network Critical Solutions"/>
+  <VendorMapping mac_prefix="00:24:0B" vendor_name="Virtual Computer"/>
+  <VendorMapping mac_prefix="00:27:11" vendor_name="Lanpro"/>
+  <VendorMapping mac_prefix="00:30:4F" vendor_name="Planet"/>
+  <VendorMapping mac_prefix="00:40:0D" vendor_name="Lannet Data Communications"/>
+  <VendorMapping mac_prefix="00:40:52" vendor_name="Star"/>
+  <VendorMapping mac_prefix="00:40:5B" vendor_name="Funasset"/>
+  <VendorMapping mac_prefix="00:40:5C" vendor_name="Future"/>
+  <VendorMapping mac_prefix="00:40:5D" vendor_name="Star-tek"/>
+  <VendorMapping mac_prefix="00:40:66" vendor_name="Hitachi Metals"/>
+  <VendorMapping mac_prefix="00:40:67" vendor_name="Omnibyte"/>
+  <VendorMapping mac_prefix="00:40:68" vendor_name="Extended"/>
+  <VendorMapping mac_prefix="00:40:69" vendor_name="Lemcom"/>
+  <VendorMapping mac_prefix="00:40:6A" vendor_name="Kentek Information"/>
+  <VendorMapping mac_prefix="00:40:6B" vendor_name="Sysgen"/>
+  <VendorMapping mac_prefix="00:40:6C" vendor_name="Copernique"/>
+  <VendorMapping mac_prefix="00:40:6D" vendor_name="Lanco"/>
+  <VendorMapping mac_prefix="00:40:71" vendor_name="Atm Computer"/>
+  <VendorMapping mac_prefix="00:E0:C8" vendor_name="Virtual Access"/>
+  <VendorMapping mac_prefix="00:E0:C9" vendor_name="Automatedlogic"/>
+  <VendorMapping mac_prefix="00:E0:CA" vendor_name="Best Data Products"/>
+  <VendorMapping mac_prefix="00:1F:3D" vendor_name="Qbit"/>
+  <VendorMapping mac_prefix="00:1F:41" vendor_name="Ruckus Wireless"/>
+  <VendorMapping mac_prefix="00:1F:42" vendor_name="Etherstack Plc"/>
+  <VendorMapping mac_prefix="00:1F:51" vendor_name="Hd Communications"/>
+  <VendorMapping mac_prefix="00:18:25" vendor_name="Private"/>
+  <VendorMapping mac_prefix="00:17:61" vendor_name="Private"/>
+  <VendorMapping mac_prefix="00:05:69" vendor_name="Vmware"/>
+  <VendorMapping mac_prefix="00:08:25" vendor_name="Acme Packet"/>
+  <VendorMapping mac_prefix="00:13:6F" vendor_name="Packetmotion"/>
+  <VendorMapping mac_prefix="00:14:2F" vendor_name="Wildpackets"/>
+  <VendorMapping mac_prefix="00:15:2E" vendor_name="Packethop"/>
+  <VendorMapping mac_prefix="00:1F:6A" vendor_name="Packetflux"/>
+  <VendorMapping mac_prefix="00:23:50" vendor_name="Lyntec"/>
+  <VendorMapping mac_prefix="00:23:51" vendor_name="2wire"/>
+  <VendorMapping mac_prefix="00:23:52" vendor_name="Datasensor Spa"/>
+  <VendorMapping mac_prefix="00:60:FB" vendor_name="Packeteer"/>
+  <VendorMapping mac_prefix="68:DC:E8" vendor_name="Packetstorm Communications"/>
+  <VendorMapping mac_prefix="6C:A9:6F" vendor_name="Transpacket As"/>
+  <VendorMapping mac_prefix="6C:BF:B5" vendor_name="Noon  Co"/>
+
+  <VendorMapping mac_prefix="80:47:31" vendor_name="Packet Design"/>
+  <VendorMapping mac_prefix="88:95:B9" vendor_name="Unified Packet  Crop"/>
+  <VendorMapping mac_prefix="00:23:56" vendor_name="Packet Forensics"/>
+  <VendorMapping mac_prefix="00:20:4E" vendor_name="Network Security"/>
+  <VendorMapping mac_prefix="00:20:5B" vendor_name="Kentrox"/>
+  <VendorMapping mac_prefix="00:20:5C" vendor_name="Internet  Of Florida"/>
+  <VendorMapping mac_prefix="00:20:63" vendor_name="Wipro Infotech"/>
+  <VendorMapping mac_prefix="00:20:64" vendor_name="Protec Micro"/>
+  <VendorMapping mac_prefix="00:20:65" vendor_name="Supernet Networking"/>
+  <VendorMapping mac_prefix="00:20:66" vendor_name="General Magic"/>
+  <VendorMapping mac_prefix="00:20:67" vendor_name="Private"/>
+  <VendorMapping mac_prefix="00:20:68" vendor_name="Isdyne"/>
+  <VendorMapping mac_prefix="00:20:69" vendor_name="Isdn"/>
+  <VendorMapping mac_prefix="98:C8:45" vendor_name="Packetaccess"/>
+  <VendorMapping mac_prefix="98:CD:B4" vendor_name="Virident"/>
+  <VendorMapping mac_prefix="00:02:58" vendor_name="Flying Packets Communications"/>
+  <VendorMapping mac_prefix="00:02:66" vendor_name="Thermalogic"/>
+  <VendorMapping mac_prefix="00:02:67" vendor_name="Node Runner"/>
+  <VendorMapping mac_prefix="00:02:A1" vendor_name="World Wide Packets"/>
+  <VendorMapping mac_prefix="00:03:C1" vendor_name="Packet Dynamics"/>
+  <VendorMapping mac_prefix="00:05:FD" vendor_name="Packetlight Networks"/>
+  <VendorMapping mac_prefix="00:06:35" vendor_name="Packetair Networks"/>
+
+
+
+  <VendorMapping mac_prefix="00:16:88" vendor_name="Serverengines"/>
+  <VendorMapping mac_prefix="00:18:0D" vendor_name="Terabytes Server Storage Tech"/>
+
+  <VendorMapping mac_prefix="00:60:CD" vendor_name="Videoserver"/>
+  <VendorMapping mac_prefix="00:60:5B" vendor_name="Intraserver"/>
+  <VendorMapping mac_prefix="3C:0C:48" vendor_name="Servergy"/>
+  <VendorMapping mac_prefix="78:81:8F" vendor_name="Server Racks Australia"/>
+
+  <VendorMapping mac_prefix="84:44:64" vendor_name="Serveru"/>
+
+
+
+  <VendorMapping mac_prefix="84:56:9C" vendor_name="Coho Data"/>
+  <VendorMapping mac_prefix="84:57:87" vendor_name="Dvr Cc Co"/>
+  <VendorMapping mac_prefix="B8:9A:ED" vendor_name="Oceanserver"/>
+
+  <VendorMapping mac_prefix="00:07:4E" vendor_name="Ipfront"/>
+  <VendorMapping mac_prefix="00:09:FC" vendor_name="Ipflex"/>
+
+  <VendorMapping mac_prefix="00:80:17" vendor_name="Pfu"/>
+
+  <VendorMapping mac_prefix="00:06:2B" vendor_name="Intraserver"/>
+
+
+  <VendorMapping mac_prefix="00:40:CB" vendor_name="Lanwan"/>
+
+  <VendorMapping mac_prefix="00:E0:B3" vendor_name="Etherwan"/>
+
+
+  <VendorMapping mac_prefix="00:80:6F" vendor_name="Onelan"/>
+  <VendorMapping mac_prefix="00:80:71" vendor_name="Sai"/>
+  <VendorMapping mac_prefix="00:80:72" vendor_name="Microplex"/>
+
+  <VendorMapping mac_prefix="18:92:2C" vendor_name="Virtual Instruments"/>
+  <VendorMapping mac_prefix="18:9C:5D" vendor_name="Cisco"/>
+  <VendorMapping mac_prefix="18:9E:FC" vendor_name="Apple"/>
+  <VendorMapping mac_prefix="18:A9:05" vendor_name="Hewlett-packard"/>
+  <VendorMapping mac_prefix="18:A9:9B" vendor_name="Dell"/>
+  <VendorMapping mac_prefix="18:AF:61" vendor_name="Apple"/>
+  <VendorMapping mac_prefix="18:AF:8F" vendor_name="Apple"/>
+  <VendorMapping mac_prefix="3C:F3:92" vendor_name="Virtualtek Co"/>
+
+  <VendorMapping mac_prefix="3C:CE:73" vendor_name="Cisco"/>
+  <VendorMapping mac_prefix="3C:D0:F8" vendor_name="Apple"/>
+  <VendorMapping mac_prefix="3C:D4:D6" vendor_name="Wirelesswerx"/>
+  <VendorMapping mac_prefix="3C:D9:2B" vendor_name="Hewlett-packard"/>
+  <VendorMapping mac_prefix="3C:D9:CE" vendor_name="Eclipse Wifi"/>
+  <VendorMapping mac_prefix="3C:DF:1E" vendor_name="Cisco"/>
+  <VendorMapping mac_prefix="3C:DF:BD" vendor_name="Huawei  Co"/>
+  <VendorMapping mac_prefix="3C:E0:72" vendor_name="Apple"/>
+
+
+  <VendorMapping mac_prefix="40:16:7E" vendor_name="Asustek Computer"/>
+  
+  
+  
