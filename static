@@ -1,0 +1,33 @@
+00:03:b0:24:93:b1	192.168.1.1	OPNalpha	Gateway	 
+00:03:b0:37:c8:4b	192.168.1.2	pfAlpha	Router	 
+00:50:56:8f:9b:c3	192.168.1.3	OPNsense	Firewall	 
+a0:36:9f:03:c9:9d	192.168.1.13	HQ	PC	 
+2c:56:dc:24:48:be	192.168.1.14	android-4c9c2403f2d11eed	Phone	 
+1c:ab:a7:10:f7:e5	192.168.1.15	entitys-iPad	Tablet	 
+30:59:b7:a6:7c:25	192.168.1.16	XboxOne	Console	 
+b8:27:eb:a1:8d:1d	192.168.1.17	PlexMediaPlayer	RPi	 
+20:df:b9:74:a5:1d	192.168.1.18	Google-Home-Mini	Google	 
+6c:ad:f8:5f:5f:f5	192.168.1.19	Chromecast	Google	 
+00:11:32:2c:a9:f7	192.168.1.21	SYNOBAK	NAS	 
+00:0a:1b:2a:88:53	192.168.1.23	PlexDRV	Plex DriveFS	 
+e8:da:aa:26:67:8b	192.168.1.31	PlexM1	Plex MON-1	 
+e8:da:aa:3e:a8:ee	192.168.1.33	PLEXM	Plex MON-2	 
+b4:ae:2b:d3:3e:b4	192.168.1.43	Surface	PC	 
+cc:c7:60:36:2d:7e	192.168.1.45	Judys-iPad-3a	Tablet	 
+e8:e8:b7:51:a4:9f	192.168.1.46	Galaxy-S10e	Phone	 
+28:77:f1:7b:fe:87	192.168.1.47	Judys-iPad-3	Tablet	 
+00:11:32:2c:a9:f9	192.168.1.53	NSBaK	NAS	 
+00:50:56:69:78:19	192.168.1.121	Lenovo	vmk12	 
+00:11:32:2c:a9:3d	192.168.1.128	Doug	Doug NIC-4 LAN3	 
+98:e7:f4:cd:bc:fe	192.168.1.129	HPCDBCFE	Printer	 
+c4:98:80:83:bf:55	192.168.1.130	u260022F8YFJCM0	TV	 
+cc:75:e2:a5:d1:0d	192.168.1.131	Great-Room	FiOS	 
+cc:75:e2:42:14:e1	192.168.1.132	Bathroom	FiOS	 
+fc:a1:83:a3:70:51	192.168.1.135	amazon-e2c3c7e5b	Echo	 
+fc:49:2d:b0:15:00	192.168.1.136	amazon-766857230	Echo	 
+f0:c7:7f:e7:a6:01	192.168.1.137	SoundTouch-Kitchen	Bose	 
+f0:c7:7f:8c:3b:8a	192.168.1.138	SoundTouch-Kitchen-2	Bose	 
+b8:a1:75:7d:d7:83	192.168.1.139	Living	Roku	 
+b0:a7:37:13:2b:0d	192.168.1.140	Roku	Roku	 
+10:c3:7b:42:93:a8	192.168.1.254	RT-AC66U-93A8	WAP
+
